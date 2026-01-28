@@ -1,4 +1,4 @@
 provider "google" {
-  project     = "Spacelift-project"
+  project     = "spacelift-project"
   region      = "us-central1"
 }
